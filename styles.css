@@ -1,3 +1,8 @@
 .game{
-    display: none; 
+   display: none;  
+}
+
+img{
+    width: 200px;
+
 }
